@@ -1,0 +1,7 @@
+/* Data: 28/05/2021
+ Aula 02 - variaveis */
+ // Comentario em linha
+
+ var minhaPrimeiraVariavel; 
+ minhaPrimeiraVariavel = "Hello World!!!";
+ console.log(minhaPrimeiraVariavel);

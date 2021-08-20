@@ -1,0 +1,30 @@
+// Aula Variaveis - 28/05/2021
+// Concatencao - Usado para unir textos (spring)
+
+let melhorTime = "Timao";
+let temMundial = "Sim!!!";
+
+let timeComMundial = melhorTime+" "+temMundial; // Timao Sim!!!
+
+console.log("*******************");
+console.log(timeComMundial);
+console.log("*******************");
+
+// funcao declarada
+
+function bomDia(){
+    console.log("bom dia é o caralho")
+}
+
+bomDia()
+console.log("*******************")
+
+//funcao expressa
+
+let somar = function (numA, numB) {
+    console.log(numA + numB);
+}
+
+somar(32, 1);
+
+let resultdado = somar(1, 2);
